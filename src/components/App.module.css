@@ -1,0 +1,16 @@
+.container {
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    outline: 1px solid #A9A9A9;
+    border-radius: 6px;
+    background-color: #FFFACD;
+    -webkit-box-shadow: 0px 2px 19px 4px rgba(0, 0, 0, 0.58);
+        -moz-box-shadow: 0px 2px 19px 4px rgba(0, 0, 0, 0.58);
+        box-shadow: 0px 2px 19px 4px rgba(0, 0, 0, 0.58);
+}
